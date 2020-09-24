@@ -191,4 +191,17 @@ max-width: 1170px;
     background-size: contain;
     background-position: right top;
     }
+
+.card-2{
+    transform: translateY(10%);
+}
+
+.card-3{
+    transform: translateY(25%);
+}
+
+.attribution{
+    margin-top: 4rem;
+}
+
 }
